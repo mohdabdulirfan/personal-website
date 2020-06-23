@@ -1,0 +1,28 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdabdulirfan/personal-website.git"
+  },
+  "author": "M.A.Irfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdabdulirfan/personal-website/issues"
+  },
+  "homepage": "https://github.com/mohdabdulirfan/personal-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "~12.14.0",
+    "npm": "~6.13.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
